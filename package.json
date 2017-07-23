@@ -1,0 +1,27 @@
+{
+  "name": "rax-utils",
+  "version": "1.0.3",
+  "description": "utils for rax development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lxxyx/rax-utils.git"
+  },
+  "keywords": [
+    "rax"
+  ],
+  "author": "Lxxyx",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/Lxxyx/rax-utils/issues"
+  },
+  "homepage": "https://github.com/Lxxyx/rax-utils#readme",
+  "dependencies": {
+    "@types/react": "^15.0.38",
+    "@types/react-dom": "^15.5.1"
+  },
+  "typings": "./index.d.ts"
+}
